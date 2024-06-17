@@ -5,18 +5,18 @@ public:
         int r = nums.size()-1 ;
         int i= 0;
         while (i<=r) {
-            if(nums[i]==1) {
-                i++;
-            }
-            else if (nums[i]==0) {
-                swap(nums[l],nums[i]);
+            if(nums[i]==0) {
+                swap(nums[i],nums[l]);
                 l++;
                 i++;
             }
-            else {
+            else if (nums[i]==2) {
                 swap(nums[i], nums[r]);
                 r--;
                 
+            }
+            else {
+                i++;
             }
         }
         
