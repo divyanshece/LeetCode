@@ -3,18 +3,18 @@ public:
     void sortColors(vector<int>& nums) {
         int low = 0;
         int high = nums.size() - 1;
-        int mid = 0 ;
-        while (mid<=high) {
-            if (nums[mid] == 1) {
-                mid++;
+        int i = 0 ;
+        while (i<=high) {
+            if (nums[i] == 1) {
+                i++;
             }
-            else if(nums[mid]==0) {
-                swap(nums[low],nums[mid]);
+            else if(nums[i]==0) {
+                swap(nums[low],nums[i]);
                 low++;
-                mid++;
+                i++;
             }
             else {
-                swap(nums[mid],nums[high]);
+                swap(nums[i],nums[high]);
                 high--;
             }
         }
