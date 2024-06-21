@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/divyanshece/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/divyanshece/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshece/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/divyanshece/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyanshece/LeetCode/tree/master/0268-missing-number) |
@@ -48,8 +49,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/divyanshece/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/divyanshece/LeetCode/tree/master/0054-spiral-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/divyanshece/LeetCode/tree/master/2737-row-with-maximum-ones) |
 # Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/divyanshece/LeetCode/tree/master/0724-find-pivot-index) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/divyanshece/LeetCode/tree/master/0054-spiral-matrix) |
