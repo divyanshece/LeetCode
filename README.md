@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/divyanshece/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshece/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/divyanshece/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/divyanshece/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 # Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyanshece/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/divyanshece/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/divyanshece/LeetCode/tree/master/0724-find-pivot-index) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/divyanshece/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2737-row-with-maximum-ones](https://github.com/divyanshece/LeetCode/tree/master/2737-row-with-maximum-ones) |
 # Two Pointers
 |  |
