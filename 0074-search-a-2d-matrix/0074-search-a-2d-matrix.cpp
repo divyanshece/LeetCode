@@ -8,8 +8,10 @@ public:
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
+            int rowIndex = mid / col;
+            int colIndex = mid % col;
             
-            int mid_val = matrix[mid / col][mid % col];
+            int mid_val = matrix[rowIndex][colIndex];
 
             if (mid_val == target)
                 return true;
