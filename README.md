@@ -11,6 +11,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/divyanshece/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshece/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/divyanshece/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -18,6 +19,7 @@
 # Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/divyanshece/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/divyanshece/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/divyanshece/LeetCode/tree/master/0075-sort-colors) |
