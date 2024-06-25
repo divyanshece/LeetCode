@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/divyanshece/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/divyanshece/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/divyanshece/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyanshece/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/divyanshece/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/divyanshece/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/divyanshece/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshece/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/divyanshece/LeetCode/tree/master/0367-valid-perfect-square) |
