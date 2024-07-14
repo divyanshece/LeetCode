@@ -94,6 +94,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +123,9 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
