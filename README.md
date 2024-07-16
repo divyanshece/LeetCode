@@ -97,6 +97,7 @@
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/divyanshece/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
