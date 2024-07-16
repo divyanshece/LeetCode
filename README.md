@@ -96,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/divyanshece/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/divyanshece/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -105,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
