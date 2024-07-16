@@ -106,6 +106,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshece/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
