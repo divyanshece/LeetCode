@@ -109,6 +109,7 @@
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
+| [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
