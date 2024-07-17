@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [3468-find-the-encrypted-string](https://github.com/divyanshece/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Array
 |  |
@@ -113,6 +114,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshece/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
@@ -136,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshece/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
