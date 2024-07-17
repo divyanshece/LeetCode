@@ -108,6 +108,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshece/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
