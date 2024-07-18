@@ -6,9 +6,9 @@ public:
             for (int i = 0; i < s.length(); i += k) {
                 int sum = 0;
                 for (int j = i; j < i + k && j < s.length(); ++j) {
-                    sum += s[j] - '0';
+                    sum = sum +  s[j] - '0';
                 }
-                newStr += to_string(sum);
+                newStr = newStr + to_string(sum);
             }
             s = newStr;
         }
