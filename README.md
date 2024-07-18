@@ -98,6 +98,7 @@
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/divyanshece/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/divyanshece/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshece/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshece/LeetCode/tree/master/0217-contains-duplicate) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/divyanshece/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/divyanshece/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshece/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
