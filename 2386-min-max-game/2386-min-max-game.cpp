@@ -1,25 +1,16 @@
 class Solution {
 public:
     int minMaxGame(vector<int>& nums) {
-        while(nums.size()>=1) {
-            if(nums.size()==1) {
-                return nums[0];
+        int n=nums.size();
+        while(n>1){
+            int k=0;
+            for(int i=0;i<n/2;i++){
+                if(k%2==0) nums[k]=min(nums[2*i],nums[2*i+1]);
+                else nums[k]=max(nums[2*i],nums[2*i+1]);
+                k++;
             }
-            int n = nums.size();
-            vector<int>newNums(n/2);
-            for(int i=0; i<newNums.size(); i++) {
-                if(i%2==0) {
-                    newNums[i] = min(nums[2 * i], nums[(2 * i) + 1]);
-                }
-                else if (i%2 !=0) {
-                    newNums[i] = max(nums[2 * i], nums[(2 * i) + 1]);
-                } 
-            }
-            nums = newNums;
-
+            n/=2;
         }
         return nums[0];
-        
-        
     }
 };
