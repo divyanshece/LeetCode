@@ -120,6 +120,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
+| [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
