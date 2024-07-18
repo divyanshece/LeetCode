@@ -117,6 +117,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
