@@ -106,6 +106,7 @@
 | [0219-contains-duplicate-ii](https://github.com/divyanshece/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/divyanshece/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyanshece/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -157,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/divyanshece/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
