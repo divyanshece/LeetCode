@@ -82,6 +82,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyanshece/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshece/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -172,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
@@ -192,4 +195,8 @@
 |  |
 | ------- |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
