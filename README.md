@@ -82,6 +82,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/divyanshece/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -183,6 +184,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
