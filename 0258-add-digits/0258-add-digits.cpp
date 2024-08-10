@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int addDigits(int num) {
+        int sum = 0;
+        while(num) {
+            sum = sum + num%10;
+            num = num / 10;
+        }
+        if(sum<10) {
+            return sum;
+        }
+        else {
+            return addDigits(sum);
+        }
+        
+    }
+};
+
+//Brute force approach 
+// class Solution {
+// public:
+//     int addDigits(int num) {
+//         int sum = 0;
+//         while(num>9) {
+//             while(num) {
+//                 sum = sum + num%10;
+//                 num = num /10;
+//             }
+//             num = sum;
+//             sum = 0;
+//         }
+//         return num;
+//     }
+// };
