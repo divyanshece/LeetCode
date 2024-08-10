@@ -84,6 +84,7 @@
 | [0066-plus-one](https://github.com/divyanshece/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
