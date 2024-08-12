@@ -95,6 +95,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3468-find-the-encrypted-string](https://github.com/divyanshece/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Array
 |  |
@@ -125,6 +126,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
 ## Hash Table
