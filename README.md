@@ -96,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/divyanshece/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshece/LeetCode/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/divyanshece/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/divyanshece/LeetCode/tree/master/0742-to-lower-case) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
