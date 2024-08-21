@@ -30,16 +30,7 @@ public:
         return flag;
     }
     bool detectCapitalUse(string word) {
-        if (allcapital(word)) {
-            return true;
-        }
-        else if (allsmall(word)) {
-            return true;
-        }
-        else if (firstCapital(word)) {
-            return true;
-        }
-        return false;
+        return allcapital(word) || allsmall(word) || firstCapital(word);
         
     }
 };
