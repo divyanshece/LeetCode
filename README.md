@@ -93,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/divyanshece/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshece/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/divyanshece/LeetCode/tree/master/0742-to-lower-case) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/divyanshece/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyanshece/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
