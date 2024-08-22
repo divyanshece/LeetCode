@@ -98,6 +98,7 @@
 | [0344-reverse-string](https://github.com/divyanshece/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/divyanshece/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/divyanshece/LeetCode/tree/master/0742-to-lower-case) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -233,4 +234,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
