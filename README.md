@@ -103,6 +103,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyanshece/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2406-decode-the-message](https://github.com/divyanshece/LeetCode/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3468-find-the-encrypted-string](https://github.com/divyanshece/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Array
@@ -149,6 +150,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2406-decode-the-message](https://github.com/divyanshece/LeetCode/tree/master/2406-decode-the-message) |
 ## Two Pointers
 |  |
 | ------- |
