@@ -99,6 +99,7 @@
 | [0520-detect-capital](https://github.com/divyanshece/LeetCode/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/divyanshece/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/divyanshece/LeetCode/tree/master/0742-to-lower-case) |
+| [0807-custom-sort-string](https://github.com/divyanshece/LeetCode/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyanshece/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -150,6 +151,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0807-custom-sort-string](https://github.com/divyanshece/LeetCode/tree/master/0807-custom-sort-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2406-decode-the-message](https://github.com/divyanshece/LeetCode/tree/master/2406-decode-the-message) |
@@ -186,6 +188,7 @@
 | [0414-third-maximum-number](https://github.com/divyanshece/LeetCode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/divyanshece/LeetCode/tree/master/0807-custom-sort-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
