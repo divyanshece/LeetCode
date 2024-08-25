@@ -104,6 +104,7 @@
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2406-decode-the-message](https://github.com/divyanshece/LeetCode/tree/master/2406-decode-the-message) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/divyanshece/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3468-find-the-encrypted-string](https://github.com/divyanshece/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Array
@@ -134,6 +135,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/divyanshece/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/divyanshece/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/divyanshece/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
