@@ -10,7 +10,7 @@ public:
         if(m==n) {
             for(int i=0;i<m;i++) {
                 if(s[i]!=t[i]) {
-                    flag = false;
+                    return false;
                 }
             }   
         }
