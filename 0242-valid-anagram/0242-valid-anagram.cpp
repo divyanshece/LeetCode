@@ -1,26 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        bool flag = false;
         int m = s.length();
         int n = t.length();
-        bool flag = true;
+        if(m != n) {
+            return flag;
+        }
         sort(s.begin(), s.end());
         sort(t.begin(), t.end());
-
-        if(m==n) {
-            for(int i=0;i<m;i++) {
-                if(s[i]!=t[i]) {
-                    return false;
-                }
-            }   
+        for(int i = 0; i<s.length(); i++) {
+            if(s[i] == t[i]) {
+                flag = true;
+            }
+            else {
+                return false;
+            }
         }
-        else {
-            return false;
-        }
-        return flag;
-        
-        
-
-
+        return flag; 
     }
 };
