@@ -95,6 +95,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshece/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/divyanshece/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/divyanshece/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshece/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyanshece/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/divyanshece/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/divyanshece/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshece/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/divyanshece/LeetCode/tree/master/0242-valid-anagram) |
