@@ -110,6 +110,7 @@
 | [0953-reverse-only-letters](https://github.com/divyanshece/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyanshece/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divyanshece/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2406-decode-the-message](https://github.com/divyanshece/LeetCode/tree/master/2406-decode-the-message) |
