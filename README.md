@@ -109,6 +109,7 @@
 | [0926-find-and-replace-pattern](https://github.com/divyanshece/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/divyanshece/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1970-sorting-the-sentence](https://github.com/divyanshece/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyanshece/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divyanshece/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -208,6 +209,7 @@
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/divyanshece/LeetCode/tree/master/0807-custom-sort-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/divyanshece/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/divyanshece/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/divyanshece/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/divyanshece/LeetCode/tree/master/3226-minimum-number-game) |
