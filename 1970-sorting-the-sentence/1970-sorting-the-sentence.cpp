@@ -23,7 +23,8 @@ public:
                 if (!ans.empty()) {
                     ans += " ";
                 }
-                ans += word;
+
+                ans = ans + word;
             }
         }
         return ans;
