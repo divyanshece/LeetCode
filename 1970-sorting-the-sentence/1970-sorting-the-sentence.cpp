@@ -13,7 +13,7 @@ public:
             } else if (s[i] == ' ') {
                 continue;
             } else {
-                word += s[i];
+                word = word + s[i];
             }
         }
 
