@@ -143,6 +143,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/divyanshece/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1769-get-maximum-in-generated-array](https://github.com/divyanshece/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshece/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/divyanshece/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1769-get-maximum-in-generated-array](https://github.com/divyanshece/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
