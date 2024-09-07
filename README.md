@@ -143,6 +143,7 @@
 | [1293-three-consecutive-odds](https://github.com/divyanshece/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshece/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divyanshece/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divyanshece/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/divyanshece/LeetCode/tree/master/2386-min-max-game) |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshece/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
