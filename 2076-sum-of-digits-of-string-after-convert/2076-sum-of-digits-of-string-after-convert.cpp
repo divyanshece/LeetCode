@@ -19,9 +19,10 @@ public:
         }
 
         
-        while(k-- > 0) {
+        while(k > 0) {
             int sum = getsum(ans); 
             ans = std::to_string(sum);
+            k--;
         }
         
 
