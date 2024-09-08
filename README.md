@@ -115,6 +115,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshece/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1970-sorting-the-sentence](https://github.com/divyanshece/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyanshece/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/divyanshece/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/divyanshece/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2235-capitalize-the-title](https://github.com/divyanshece/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/divyanshece/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -241,6 +242,7 @@
 | [0258-add-digits](https://github.com/divyanshece/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/divyanshece/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1769-get-maximum-in-generated-array](https://github.com/divyanshece/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/divyanshece/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/divyanshece/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/divyanshece/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/divyanshece/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
