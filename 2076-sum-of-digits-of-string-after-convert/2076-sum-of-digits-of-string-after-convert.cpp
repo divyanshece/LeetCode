@@ -11,7 +11,6 @@ public:
 
     int getLucky(string s, int k) {
         string ans;
-        int result;
 
         for(auto c: s) {
             int temp =  (c - 'a' + 1);
