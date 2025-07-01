@@ -143,6 +143,7 @@
 | [0414-third-maximum-number](https://github.com/divyanshece/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/divyanshece/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshece/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/divyanshece/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/divyanshece/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0926-find-and-replace-pattern](https://github.com/divyanshece/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -176,6 +177,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyanshece/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/divyanshece/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshece/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/divyanshece/LeetCode/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/divyanshece/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/divyanshece/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -288,6 +290,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshece/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/divyanshece/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Trie
 |  |
